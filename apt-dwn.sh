@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# Lista de Pacotes Ubuntu;
-# 0ad aisleriot arduino audacity bleachbit blender bluefish brasero cheese codeblocks-contrib codelite deluge dia discord dolphin-emu dosbox dosemu drawing dropbox dxvk easytag evince exfat-fuse file-roller filezilla firefox flatpak g++ gdebi geany-plugins geary gedit gimp git gnome-boxes gnome-disks-utility gnome-games-app gnome-mines gnome-shell gnome-software gnome-software-plugin-flatpak gnome-software-plugin-snap gnome-terminal gnome-tweak-tool gparted higan hplip-gui inkscape jstest-gtk kdenlive krita kstars librecad libreoffice linux-generic-hwe-22.04 lutris marsshooter mesa-vulkan-drivers minetest mysql-client nautilus-dropbox nvidia-340 nvidia-driver-390 nvidia-driver-470 nvidia-driver-510 nvidia-driver-525 obs-studio p7zip-rar pcsxr pidgin pinta playonlinux putty python3-wxgtk4.0 remmina rhythmbox shotcut shotwell shutter snapd sqlitebrowser steam stellarium supertuxkart telegram-desktop thunderbird transmission ubuntu-restricted-extras uget vinagre virtualbox vlc vulkan-utils wine wireshark
+# Lista de Pacotes Linux;
+# Common
+# 0ad amule arduino audacity blender bluefish clamav clamtk clementine cmake codeblocks-contrib codelite deluge dia discord dolphin-emu dosbox dosemu drawing dropbox dxvk exfat-fuse filezilla firefox flatpak g++ gamehub gcompris-qt gdebi geany-plugins geary gimp git godot3 gparted higan hplip-gui inkscape jstest-gtk kodi leocad librecad libreoffice linux-generic-hwe-22.04 logisim lutris mame marsshooter mesa-vulkan-drivers minetest minigalaxy mysql-client neofetch nestopia notepadqq nvidia-340 nvidia-driver-390 nvidia-driver-470 nvidia-driver-510 nvidia-driver-525 obs-studio p7zip-rar pcsxr pidgin pinta playonlinux putty python3-wxgtk4.0 quake quake2 remmina retroarch scratch shotcut shutter siril snapd sqlitebrowser steam stellarium supertux supertuxkart telegram-desktop thonny thunderbird transmission ubuntu-restricted-extras uget virt-manager virtualbox vlc vulkan-utils wine wireshark
+# KDE
+# calligra calligraplan elisa k3b kalarm kamoso kapptemplate karbon kcalc kdenlive kdevelop kget kid3 kmahjongg kmail kmines knavalbattle knights kolourpaint kpat krdc krename krfb krita kstars ktimetracker ktorrent kwave marble sweeper
+# GNOME
+# aisleriot bleachbit brasero cheese easytag evince file-roller gedit gnome-boxes gnome-disks-utility gnome-games-app gnome-mines gnome-shell gnome-software gnome-software-plugin-flatpak gnome-software-plugin-snap gnome-terminal gnome-tweak-tool nautilus-dropbox rhythmbox shotwell vinagre
 
 sudo dpkg --add-architecture i386
 
